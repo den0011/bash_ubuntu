@@ -1,5 +1,7 @@
 # Bash Ubuntu
-Набор полезных скриптов для ubuntu
+#### Набор полезных скриптов для Ubuntu:
+
+[Apache](https://github.com/den0011/bash_ubuntu/blob/main/Apache.md)
 
 ## Для запуска Bash-скриптов на Ubuntu нужно выполнить следующие действия:
 
@@ -26,4 +28,8 @@ chmod +x script.sh
 
 ```` bash
 bash /path/script.sh
+````
+или
+```` bash
+sh /path/script.sh
 ````
