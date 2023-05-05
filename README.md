@@ -1,7 +1,9 @@
 # Bash Ubuntu
 #### Набор полезных скриптов для Ubuntu:
 
-[Apache](https://github.com/den0011/bash_ubuntu/blob/main/Apache.md)
+* [Apache](https://github.com/den0011/bash_ubuntu/blob/main/Apache.md)
+* [Python+Django+Apache](https://github.com/den0011/bash_ubuntu/blob/main/Python%2BDjango%2BApache.md)
+* [System](https://github.com/den0011/bash_ubuntu/blob/main/System.md)
 
 ## Для запуска Bash-скриптов на Ubuntu нужно выполнить следующие действия:
 
